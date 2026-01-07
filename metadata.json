@@ -1,0 +1,6 @@
+{
+  "name": "3D Printing & Klipper Assistant",
+  "description": "An interactive guide to help new users of Klipper and Mainsail start their first 3D print.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
